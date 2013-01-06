@@ -1,6 +1,6 @@
 <?php
 
-$newTest = 12;
-$newTest2 = 11;
+$newTest = 13;
+$newTest2 = 1;
 echo $newTest + $newTest2;
 ?>
